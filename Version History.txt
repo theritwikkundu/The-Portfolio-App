@@ -1,0 +1,3 @@
+v1.0.0 - First release
+v1.0.1 - Proof reading
+v1.1.0 - Home screen scroll fixed
