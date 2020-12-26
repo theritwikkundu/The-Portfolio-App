@@ -1,6 +1,6 @@
-# rk_portfolio
+# The-Portfolio-Application
 
-Portfolio application
+My Portfolio application designed using Flutter
 
 ## Getting Started
 
